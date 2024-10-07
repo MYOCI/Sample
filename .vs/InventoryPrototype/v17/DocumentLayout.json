@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guru.shruthy\\source\\repos\\InventoryPrototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B38EF4C-0BFB-4074-9FC6-5305AC743D1B}|InventoryPrototype\\InventoryPrototype.csproj|c:\\users\\guru.shruthy\\source\\repos\\inventoryprototype\\inventoryprototype\\cyclecount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B38EF4C-0BFB-4074-9FC6-5305AC743D1B}|InventoryPrototype\\InventoryPrototype.csproj|solutionrelative:inventoryprototype\\cyclecount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B38EF4C-0BFB-4074-9FC6-5305AC743D1B}|InventoryPrototype\\InventoryPrototype.csproj|c:\\users\\guru.shruthy\\source\\repos\\inventoryprototype\\inventoryprototype\\cyclecount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B38EF4C-0BFB-4074-9FC6-5305AC743D1B}|InventoryPrototype\\InventoryPrototype.csproj|solutionrelative:inventoryprototype\\cyclecount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 10,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CycleCount.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\guru.shruthy\\source\\repos\\InventoryPrototype\\InventoryPrototype\\CycleCount.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryPrototype\\CycleCount.Designer.cs",
+              "ToolTip": "C:\\Users\\guru.shruthy\\source\\repos\\InventoryPrototype\\InventoryPrototype\\CycleCount.Designer.cs*",
+              "RelativeToolTip": "InventoryPrototype\\CycleCount.Designer.cs*",
+              "ViewState": "AQIAADgAAAAAAAAAAAAcwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:33:34.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CycleCount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\guru.shruthy\\source\\repos\\InventoryPrototype\\InventoryPrototype\\CycleCount.cs",
+              "RelativeDocumentMoniker": "InventoryPrototype\\CycleCount.cs",
+              "ToolTip": "C:\\Users\\guru.shruthy\\source\\repos\\InventoryPrototype\\InventoryPrototype\\CycleCount.cs [Design]*",
+              "RelativeToolTip": "InventoryPrototype\\CycleCount.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:33:09.754Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
